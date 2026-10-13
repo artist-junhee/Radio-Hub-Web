@@ -1,0 +1,8 @@
+{
+  "name": "RADIO HUB WEB",
+  "description": "실시간 대한민국 전국 방송 및 해외 한인 라디오 스트리밍 웹 플레이어 (Chromecast, PWA, 즐겨찾기, 카테고리 관리 지원)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

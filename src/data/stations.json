@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "stn-1",
+    "name": "KBS 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-2",
+    "name": "KBS 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-3",
+    "name": "KBS 3라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=3radio",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-4",
+    "name": "KBS 1FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-5",
+    "name": "KBS 2FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2fm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-6",
+    "name": "KBS 한민족방송",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=hanminjok",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-7",
+    "name": "MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-8",
+    "name": "MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-9",
+    "name": "MBC mini 올댓뮤직",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=chm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-10",
+    "name": "MBC 보이는 라디오",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=bora",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-11",
+    "name": "SBS 러브FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=lovefm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-12",
+    "name": "SBS 파워FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-13",
+    "name": "SBS 고릴라디오M",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=dmb",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-14",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-15",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-16",
+    "name": "OBS 라디오",
+    "url": "https://radio.bsod.kr/stream?stn=obs",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-17",
+    "name": "iFM 경인방송",
+    "url": "https://radio.bsod.kr/stream?stn=ifm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-18",
+    "name": "YTN 라디오",
+    "url": "https://radio.bsod.kr/stream?stn=ytn",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-19",
+    "name": "TBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=tbs&ch=fm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-20",
+    "name": "TBS eFM",
+    "url": "https://radio.bsod.kr/stream?stn=tbs&ch=efm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-21",
+    "name": "TBN 경인교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-22",
+    "name": "CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-23",
+    "name": "CBS 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=mfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-24",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-25",
+    "name": "FEBC 서울극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-26",
+    "name": "BBS 서울불교방송",
+    "url": "https://radio.bsod.kr/stream?stn=bbs",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-27",
+    "name": "CPBC 가톨릭평화방송",
+    "url": "https://radio.bsod.kr/stream?stn=cpbc",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-28",
+    "name": "WBS 서울원음방송",
+    "url": "https://radio.bsod.kr/stream?stn=wbs",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-29",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-30",
+    "name": "국악방송",
+    "url": "https://radio.bsod.kr/stream?stn=kugak",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-31",
+    "name": "AFN FM Humphreys",
+    "url": "https://radio.bsod.kr/stream?stn=afn&city=humphreys",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-32",
+    "name": "관악FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=gwanakfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-33",
+    "name": "마포FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=mapofm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-34",
+    "name": "성남FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=seongnamfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-35",
+    "name": "서대문FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=sdmfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-36",
+    "name": "수원FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=sonefm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-37",
+    "name": "GO구리FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=gurifm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-38",
+    "name": "단원FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=dwfm",
+    "category": "서울",
+    "isCustom": false
+  },
+  {
+    "id": "stn-39",
+    "name": "KBS부산 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-40",
+    "name": "KBS부산 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-41",
+    "name": "KBS부산 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-42",
+    "name": "KBS울산 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=ulsan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-43",
+    "name": "KBS창원 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=changwon",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-44",
+    "name": "KBS창원 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=changwon",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-45",
+    "name": "KBS창원 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=changwon",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-46",
+    "name": "KBS진주 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=jinju",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-47",
+    "name": "부산MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-48",
+    "name": "부산MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-49",
+    "name": "울산MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=ulsan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-50",
+    "name": "울산MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=ulsan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-51",
+    "name": "MBC경남 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=changwon",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-52",
+    "name": "MBC경남 FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=changwon",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-53",
+    "name": "KNN 러브FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=lovefm&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-54",
+    "name": "KNN 파워FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-55",
+    "name": "UBC 그린FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=ulsan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-56",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-57",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-58",
+    "name": "TBN 부산교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-59",
+    "name": "TBN 울산교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=ulsan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-60",
+    "name": "TBN 경남교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=gyeongnam",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-61",
+    "name": "부산CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-62",
+    "name": "부산CBS 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=mfm&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-63",
+    "name": "울산CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=ulsan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-64",
+    "name": "경남CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=gyeongnam",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-65",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-66",
+    "name": "FEBC 부산극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-67",
+    "name": "FEBC 울산극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=ulsan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-68",
+    "name": "FEBC 창원극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=changwon",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-69",
+    "name": "BBS 부산불교방송",
+    "url": "https://radio.bsod.kr/stream?stn=bbs&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-70",
+    "name": "CPBC 부산가톨릭평화방송",
+    "url": "https://radio.bsod.kr/stream?stn=cpbc&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-71",
+    "name": "WBS 부산원음방송",
+    "url": "https://radio.bsod.kr/stream?stn=wbs&city=busan",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-72",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-73",
+    "name": "부산영어방송",
+    "url": "https://radio.bsod.kr/stream?stn=befm",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-74",
+    "name": "연제공동체라디오",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=yeonjefm",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-75",
+    "name": "남해FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=namhaefm",
+    "category": "부산",
+    "isCustom": false
+  },
+  {
+    "id": "stn-76",
+    "name": "KBS대구 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-77",
+    "name": "KBS대구 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-78",
+    "name": "KBS대구 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-79",
+    "name": "KBS안동 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=andong",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-80",
+    "name": "KBS포항 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=pohang",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-81",
+    "name": "대구MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-82",
+    "name": "대구MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-83",
+    "name": "안동MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=andong",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-84",
+    "name": "안동MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=andong",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-85",
+    "name": "포항MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=pohang",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-86",
+    "name": "포항MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=pohang",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-87",
+    "name": "TBC 드림FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-88",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-89",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-90",
+    "name": "TBN 대구교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-91",
+    "name": "TBN 경북교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=gyeongbuk",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-92",
+    "name": "대구CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-93",
+    "name": "대구CBS 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=mfm&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-94",
+    "name": "포항CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=pohang",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-95",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-96",
+    "name": "FEBC 대구극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-97",
+    "name": "FEBC 포항극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=pohang",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-98",
+    "name": "BBS 대구불교방송",
+    "url": "https://radio.bsod.kr/stream?stn=bbs&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-99",
+    "name": "CPBC 대구가톨릭평화방송",
+    "url": "https://radio.bsod.kr/stream?stn=cpbc&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-100",
+    "name": "WBS 대구원음방송",
+    "url": "https://radio.bsod.kr/stream?stn=wbs&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-101",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-102",
+    "name": "AFN FM Daegu",
+    "url": "https://radio.bsod.kr/stream?stn=afn&city=daegu",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-103",
+    "name": "성서공동체FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=scnfm",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-104",
+    "name": "대구동구FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=daegufm",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-105",
+    "name": "영주FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=yeongjufm",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-106",
+    "name": "성주FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=sjfm",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-107",
+    "name": "상주FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=sangjufm",
+    "category": "대구",
+    "isCustom": false
+  },
+  {
+    "id": "stn-108",
+    "name": "KBS광주 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-109",
+    "name": "KBS광주 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-110",
+    "name": "KBS광주 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-111",
+    "name": "KBS목포 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=mokpo",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-112",
+    "name": "KBS목포 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=mokpo",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-113",
+    "name": "KBS순천 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=suncheon",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-114",
+    "name": "광주MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-115",
+    "name": "광주MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-116",
+    "name": "목포MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=mokpo",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-117",
+    "name": "목포MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=mokpo",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-118",
+    "name": "여수MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=yeosu",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-119",
+    "name": "여수MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=yeosu",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-120",
+    "name": "KBC 마이FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-121",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-122",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-123",
+    "name": "TBN 광주교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-124",
+    "name": "광주CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-125",
+    "name": "광주CBS 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=mfm&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-126",
+    "name": "전남CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=jeonnam",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-127",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-128",
+    "name": "FEBC 광주극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-129",
+    "name": "FEBC 목포극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=mokpo",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-130",
+    "name": "FEBC 전남동부극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=jeonnam",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-131",
+    "name": "BBS 광주불교방송",
+    "url": "https://radio.bsod.kr/stream?stn=bbs&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-132",
+    "name": "CPBC 광주가톨릭평화방송",
+    "url": "https://radio.bsod.kr/stream?stn=cpbc&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-133",
+    "name": "WBS 광주원음방송",
+    "url": "https://radio.bsod.kr/stream?stn=wbs&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-134",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-135",
+    "name": "글로벌광주방송",
+    "url": "https://radio.bsod.kr/stream?stn=ggn",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-136",
+    "name": "광주국악방송",
+    "url": "https://radio.bsod.kr/stream?stn=kugak&city=gwangju",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-137",
+    "name": "광주FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=kjfm",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-138",
+    "name": "GBS고려방송",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=crfm",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-139",
+    "name": "순천미디어네트워크",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=suncheonfm",
+    "category": "광주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-140",
+    "name": "KBS대전 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-141",
+    "name": "KBS대전 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-142",
+    "name": "KBS대전 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-143",
+    "name": "대전MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-144",
+    "name": "대전MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-145",
+    "name": "TJB 파워FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-146",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-147",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-148",
+    "name": "TBN 대전교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-149",
+    "name": "TBN 충남교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=chungnam",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-150",
+    "name": "대전CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-151",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-152",
+    "name": "FEBC 대전극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-153",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-154",
+    "name": "대전국악방송",
+    "url": "https://radio.bsod.kr/stream?stn=kugak&city=daejeon",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-155",
+    "name": "금강FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=keumkangfm",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-156",
+    "name": "세종FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=sejongfm",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-157",
+    "name": "한밭FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=hanbatfm",
+    "category": "대전",
+    "isCustom": false
+  },
+  {
+    "id": "stn-158",
+    "name": "KBS춘천 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=chuncheon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-159",
+    "name": "KBS춘천 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=chuncheon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-160",
+    "name": "KBS춘천 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=chuncheon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-161",
+    "name": "KBS강릉 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=gangneung",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-162",
+    "name": "KBS강릉 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=gangneung",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-163",
+    "name": "KBS원주 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=wonju",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-164",
+    "name": "KBS원주 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=wonju",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-165",
+    "name": "춘천MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=chuncheon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-166",
+    "name": "춘천MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=chuncheon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-167",
+    "name": "원주MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=wonju",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-168",
+    "name": "원주MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=wonju",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-169",
+    "name": "MBC강원영동 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=gangneung",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-170",
+    "name": "MBC강원영동 FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=gangneung",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-171",
+    "name": "G1 프레쉬FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=chuncheon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-172",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-173",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-174",
+    "name": "TBN 강원교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=gangwon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-175",
+    "name": "춘천CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=chuncheon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-176",
+    "name": "강원영동CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=youngdong",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-177",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-178",
+    "name": "FEBC 강원극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=gangwon",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-179",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-180",
+    "name": "태백FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=taebaekfm",
+    "category": "강원",
+    "isCustom": false
+  },
+  {
+    "id": "stn-181",
+    "name": "KBS청주 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=cheongju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-182",
+    "name": "KBS청주 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=cheongju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-183",
+    "name": "KBS청주 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=cheongju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-184",
+    "name": "KBS충주 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=chungju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-185",
+    "name": "KBS충주 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=chungju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-186",
+    "name": "MBC충북 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=cheongju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-187",
+    "name": "MBC충북 FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=cheongju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-188",
+    "name": "CJB 조이FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=cheongju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-189",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-190",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-191",
+    "name": "TBN 충북교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=chungbuk",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-192",
+    "name": "충북CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=cheongju",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-193",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-194",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-195",
+    "name": "옥천FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=obn",
+    "category": "충북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-196",
+    "name": "KBS전주 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=jeonju",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-197",
+    "name": "KBS전주 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=jeonju",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-198",
+    "name": "KBS전주 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=jeonju",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-199",
+    "name": "전주MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=jeonju",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-200",
+    "name": "전주MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=jeonju",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-201",
+    "name": "JTV 매직FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=jeonju",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-202",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-203",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-204",
+    "name": "TBN 전북교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=jeonbuk",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-205",
+    "name": "전북CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=jeonbuk",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-206",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-207",
+    "name": "FEBC 전북극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=jeonbuk",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-208",
+    "name": "WBS 전북원음방송",
+    "url": "https://radio.bsod.kr/stream?stn=wbs&city=jeonbuk",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-209",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-210",
+    "name": "AFN FM Kunsan",
+    "url": "https://radio.bsod.kr/stream?stn=afn&city=kunsan",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-211",
+    "name": "전주FM",
+    "url": "https://radio.bsod.kr/stream?stn=community&ch=jcfm",
+    "category": "전북",
+    "isCustom": false
+  },
+  {
+    "id": "stn-212",
+    "name": "KBS제주 1라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1radio&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-213",
+    "name": "KBS제주 2라디오",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=2radio&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-214",
+    "name": "KBS제주 음악FM",
+    "url": "https://radio.bsod.kr/stream?stn=kbs&ch=1fm&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-215",
+    "name": "제주MBC 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=sfm&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-216",
+    "name": "제주MBC FM4U",
+    "url": "https://radio.bsod.kr/stream?stn=mbc&ch=fm4u&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-217",
+    "name": "JIBS 뉴파워FM",
+    "url": "https://radio.bsod.kr/stream?stn=sbs&ch=powerfm&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-218",
+    "name": "EBS FM",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=fm",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-219",
+    "name": "EBS 반디 외국어 전문",
+    "url": "https://radio.bsod.kr/stream?stn=ebs&ch=bandi",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-220",
+    "name": "TBN 제주교통방송",
+    "url": "https://radio.bsod.kr/stream?stn=tbn&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-221",
+    "name": "제주CBS 표준FM",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=sfm&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-222",
+    "name": "CBS JOY4U",
+    "url": "https://radio.bsod.kr/stream?stn=cbs&ch=joy4u",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-223",
+    "name": "FEBC 제주극동방송",
+    "url": "https://radio.bsod.kr/stream?stn=febc&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-224",
+    "name": "BBS 제주불교방송",
+    "url": "https://radio.bsod.kr/stream?stn=bbs&city=jeju",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-225",
+    "name": "국방FM",
+    "url": "https://radio.bsod.kr/stream?stn=kookbang",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-226",
+    "name": "Arirang Radio",
+    "url": "https://radio.bsod.kr/stream?stn=arirang",
+    "category": "제주",
+    "isCustom": false
+  },
+  {
+    "id": "stn-227",
+    "name": "DKnet",
+    "url": "https://s2.radio.co/sa6920367a/listen?ver=872340",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-228",
+    "name": "K-RADIO (AM 1310)",
+    "url": "https://s5.radio.co/s0a9796fe3/listen",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-229",
+    "name": "K-RADIO (AM 1660)",
+    "url": "https://streams.radio.co/s839c1142b/listen",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-230",
+    "name": "라디오 서울",
+    "url": "http://onair1.radioseoul1650.com:8000/radioseoul.mp3",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-231",
+    "name": "라디오 한국",
+    "url": "http://50.222.186.230:8080/stream",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-232",
+    "name": "샌디에고 라디오 코리아",
+    "url": "https://play.radioking.io/san-diego-radio-korea2",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-233",
+    "name": "라디오코리아",
+    "url": "https://onairweb.radiokorea.com/live;stream/1",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-234",
+    "name": "라디오코리아 뉴욕",
+    "url": "https://das-edge63-live365-dal03.cdnstream.com/a48202",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-235",
+    "name": "애틀랜타 라디오 코리아",
+    "url": "https://s2.radio.co/s481a3f747/listen",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-236",
+    "name": "우리방송",
+    "url": "https://free.rcast.net/72974",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  },
+  {
+    "id": "stn-237",
+    "name": "한미라디오",
+    "url": "http://107.140.67.161:8000/stream",
+    "category": "해외 한인 방송",
+    "isCustom": false
+  }
+]
